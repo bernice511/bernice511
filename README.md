@@ -19,9 +19,20 @@ During my tenure at **Thoughtworks**, I was a core part of the team that develop
 
 ---
 
+## 🎤 Speaking & Technical Mentorship
+- **Technical Speaker:** Presented at industry conferences including **XConf** and **GeekNight**, sharing insights on software architecture and data engineering.
+- **Corporate Trainer:** Conducted hands-on workshops on **Generative AI** at Thoughtworks, upskilling colleagues on emerging AI trends and practical implementations.
+
+---
+
 ## 📚 Blogs & Project Recognition
 - 📝 **From Unstructured to Structured: [Adobe PDF Extract API](https://dev.to/theblogsquad/from-unstructured-to-structured-adobe-pdf-extract-api-for-data-transformation-1n08) for Data Transformation** *Published on Dev.to* — A practical guide on architecting pipelines to transform messy, unstructured PDF data into clean, actionable formats.
 - 🏆 **Project Recognition (The PRINCE Project):** The multi-agent architecture I helped engineer during my time at Thoughtworks was the subject of the peer-reviewed paper *[From data silos to insights: the PRINCE multi-agent knowledge engine for preclinical drug development](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1636809/full)*, featured in Frontiers in Artificial Intelligence (2025).
+
+---
+
+## 💬 Ask me about: 
+Building multi-agent systems, the move from Chennai to Boston or my dream of building a RAG-based search engine specifically for my fictional book multiverse.
 
 ---
 
