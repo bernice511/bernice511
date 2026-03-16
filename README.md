@@ -19,8 +19,9 @@ During my tenure at **Thoughtworks**, I was a core part of the team that develop
 
 ---
 
-## 📚 Publications
-- **From data silos to insights: [the PRINCE](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1636809/full) multi-agent knowledge engine for preclinical drug development** *Featured in Frontiers in Artificial Intelligence (2025)* — A deep dive into the architecture of multi-agent RAG systems in the pharmaceutical domain.
+## 📚 Blogs & Project Recognition
+- 📝 **From Unstructured to Structured: [Adobe PDF Extract API](https://dev.to/theblogsquad/from-unstructured-to-structured-adobe-pdf-extract-api-for-data-transformation-1n08) for Data Transformation** *Published on Dev.to* — A practical guide on architecting pipelines to transform messy, unstructured PDF data into clean, actionable formats.
+- 🏆 **Project Recognition (The PRINCE Project):** The multi-agent architecture I helped engineer during my time at Thoughtworks was the subject of the peer-reviewed paper *[From data silos to insights: the PRINCE multi-agent knowledge engine for preclinical drug development](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1636809/full)*, featured in Frontiers in Artificial Intelligence (2025).
 
 ---
 
