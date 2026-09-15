@@ -1,7 +1,6 @@
 # Hi, I'm Bernice Malaiarasu ✨
 
-### 🎓 MS in Artificial Intelligence Student @ Northeastern University
-### 🛠 Former Data Engineer @ Thoughtworks | GenAI Award Winner
+### 🎓 MS AI @ Northeastern | AI/ML Engineer | Ex-Data Engineer @ Thoughtworks | Generative AI & Agentic Systems | GenAI Award Winner
 
 I am an AI Graduate Student at the **Khoury College of Computer Sciences** with a robust background in building production-scale data systems. My journey from **Chennai to Boston** is driven by a passion for moving beyond data pipelines into the world of **Autonomous Multi-Agent Systems**.
 
