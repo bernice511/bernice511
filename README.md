@@ -16,8 +16,6 @@
 
 I build production LLM systems that people actually use. I have 4+ years in software and data engineering, including 2+ years shipping multi-agent GenAI at **Thoughtworks** for Bayer, where RAG, Text-to-SQL and NER run against **18,000+ preclinical safety studies**. I'm now doing an MS in AI (ML specialization) at Northeastern's **Khoury College** and working as a Research Assistant at the **AIMES Lab**.
 
-> 🔍 **Open to Spring 2027 Agentic AI internships.** See my [portfolio](https://bernice511.github.io) or [reach out](mailto:bernicemalaiarasu@gmail.com).
-
 ## 🔭 What I'm Working On
 - 📰 **[NewsroomFeed](https://newsroomfeed.duckdns.org/)** (AIMES Lab): a LangGraph pipeline that turns live civic feeds (MassDOT, NWS, Boston 311) into hyperlocal AI news. A journalist approves every item before it publishes. Shipped as a Next.js PWA.
 - 🎓 **Husky AI** (AIMES Lab): a platform where students practice prompt engineering through interactive exercises and guided feedback.
