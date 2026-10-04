@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://bernice511.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=7A2E2A&center=true&vCenter=true&width=560&lines=Building+production+multi-agent+systems;RAG+%C2%B7+Text-to-SQL+%C2%B7+LLM+evals;Bayer+GenAI+Award+winner;Open+to+Spring+2027+Agentic+AI+internships" alt="Building production multi-agent systems · RAG · Text-to-SQL · LLM evals · Open to Spring 2027 Agentic AI internships" />
-  </a>
+  <b>🏆 Bayer GenAI Award — Best Technical Implementation</b><br/>
+  Building production multi-agent systems · RAG · Text-to-SQL · LLM evals<br/>
+  <b>🔍 Open to Spring 2027 Agentic AI internships</b>
 </p>
 
 <p align="center">
