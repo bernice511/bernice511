@@ -85,10 +85,4 @@ flowchart LR
 ## 💬 Ask me about
 Building multi-agent systems, LLM evaluation, the move from Chennai to Boston, or my dream of building a RAG-based search engine for my fictional book multiverse.
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bernice511&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=faf8f3&title_color=7a2e2a&text_color=16150f&icon_color=8a6a1f" alt="Bernice's GitHub Stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernice511&layout=compact&hide_border=true&langs_count=6&bg_color=faf8f3&title_color=7a2e2a&text_color=16150f" alt="Top Languages" height="170px" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a6a1f,100:7a2e2a&height=90&section=footer" width="100%" alt="" />
